@@ -13,7 +13,7 @@ Next, add some config to your gulpfile.
 
 ```js
 var elixir = require('laravel-elixir');
-require('killtw@laravel-elixir-wiredep');
+require('@killtw/laravel-elixir-wiredep');
 
 elixir(function(mix) {
    mix..wiredep();
