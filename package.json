@@ -1,6 +1,6 @@
 {
   "name": "@killtw/laravel-elixir-wiredep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple wrapper for Laravel Elixir using wiredep.",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,16 @@
     "elixir",
     "gulp",
     "wiredep"
-  ],
+  ],"repository": {
+    "type": "git",
+    "url": "https://github.com/killtw/laravel-elixir-wiredep"
+  },
   "author": "Karl Li",
   "license": "MIT",
+  "homepage": "https://github.com/killtw/laravel-elixir-wiredep",
+  "bugs": {
+    "url": "https://github.com/JeffreyWay/laravel-elixir-stylus/issues"
+  },
   "dependencies": {
     "underscore": "^1.8.3",
     "wiredep": "^2.2.2"
